@@ -1,0 +1,11 @@
+D:\Learning\VSCode\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+D:\Learning\VSCode\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+D:\Learning\VSCode\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+D:\Learning\VSCode\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+D:\Learning\VSCode\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+D:\Learning\VSCode\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+D:\Learning\VSCode\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+D:\Learning\VSCode\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+D:\Learning\VSCode\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+D:\Learning\VSCode\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+D:\Learning\VSCode\myApp\obj\Debug\netcoreapp3.1\myApp.pdb
